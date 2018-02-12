@@ -1,0 +1,8 @@
+london:
+  address: "138 Kingsland Rd, London E2 8DY"
+
+paris:
+  address: "16 Villa Gaudelet, 75011 Paris"
+
+berlin:
+  address: "10969 Berlin, Germany"
